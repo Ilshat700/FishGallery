@@ -1,9 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/{nickname}/{project_name}">
-    <img src="https://ucarecdn.com/7d1bd7eb-58a3-46ac-ba0f-01cf757d3fb2/" alt="Logo">
-  </a>
+  
 
 <h3 align="center">Fish Gallery</h3>
 
