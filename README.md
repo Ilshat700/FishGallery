@@ -96,8 +96,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-- The images are licensed under the [CC BY 3.0 License](http://creativecommons.org/licenses/by/3.0/)
-- App's code is licensed under the [MIT License](https://opensource.org/licenses/mit-license.html/)
+
 
 </br>
 
